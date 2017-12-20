@@ -16,7 +16,7 @@
 
 </head>
 <body>
-<jsp:include page="partials/navbar.jsp" />
+<%--<jsp:include page="partials/navbar.jsp" />--%>
 
 <div class="container">
     <h1>Viewing your profile.</h1>
